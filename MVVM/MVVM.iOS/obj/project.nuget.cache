@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yofPCgpIsYeLSpp088RWjZKGpkxfRkyw4Ut9eLmpWgyab38hM9vpJp2drHi1qeT4+nZUbrZuMPNM03YOI2z2tQ==",
+  "success": true,
+  "projectFilePath": "/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM.iOS/MVVM.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/chris.vazquez/.nuget/packages/xamarin.forms/5.0.0.1931/xamarin.forms.5.0.0.1931.nupkg.sha512"
+  ],
+  "logs": []
+}

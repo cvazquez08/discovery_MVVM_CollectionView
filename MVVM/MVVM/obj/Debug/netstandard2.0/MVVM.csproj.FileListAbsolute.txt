@@ -1,0 +1,14 @@
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/bin/Debug/netstandard2.0/MVVM.deps.json
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/bin/Debug/netstandard2.0/MVVM.dll
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/bin/Debug/netstandard2.0/MVVM.pdb
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.csprojAssemblyReference.cache
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.AssemblyInfoInputs.cache
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.AssemblyInfo.cs
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.csproj.CoreCompileInputs.cache
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.dll
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/MVVM.pdb
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/Pages/AllMoviesPage.xaml.g.cs
+/Users/chris.vazquez/RiderProjects/MVVM/MVVM/MVVM/obj/Debug/netstandard2.0/Views/MovieIconView.xaml.g.cs
